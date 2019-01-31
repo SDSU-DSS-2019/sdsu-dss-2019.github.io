@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: page\ntitle: Get R!\npublished: true\n---\n\n\n\nInstalling R\n=================\n\n<center>\n<img src=\"https://nambari.github.io/img/r.png\" style=\"height:100px\">\n</center>\n1.  Go to <https://cran.r-project.org/>\n2.  Click **Download R for Mac/Windows**.\n3.  Click the link appropriate for your system (Linux, Mac, Windows)\n\n\n\nFor Windows\n-----------------\n\n-   click **install R for the first time**\n-   Download **R 3.3.X**\n\n\nFor Mac\n---------------\n\n-   Download the **R-3.X.X** package for your OS X\n\n\nFor Linux\n----------\n\n-   Click on the folder of your Linux distribution.\n-   Follow Instructions included.\n-   For Debian/Ubuntu:\n    -   `sudo apt-get update`\n    -   `sudo apt-get install r-base`\n\nInstalling RStudio\n==================\n\n<center>\n<img src=\"https://nambari.github.io/img/RStudio-Ball.png\" style=\"height:100px\">\n</center>\n\n1.  Go to <https://www.rstudio.com/products/rstudio/download/>\n2.  Click **Download** under RStudio Desktop.\n3.  Click the link appropriate for your system (Linux, Mac, Windows)\n4.  Follow the instructions of the Installer.\n\n<center>\nPLEASE INSTALL THESE BEFORE CONTINUING!\n</center>\n",
+    "created" : 1496780686860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2433998074",
+    "id" : "6D683319",
+    "lastKnownWriteTime" : 1496781487,
+    "last_content_update" : 1496781487968,
+    "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/getr.md",
+    "project_path" : "getr.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

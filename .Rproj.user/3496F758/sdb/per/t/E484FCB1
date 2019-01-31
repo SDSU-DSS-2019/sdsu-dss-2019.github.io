@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "<head>\n  <meta charset=\"utf-8\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0\">\n\n  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>\n\n  <meta name=\"author\" content=\"{{ site.author.name }}\" />\n  \n  {% if page.subtitle %}\n  <meta name=\"description\" content=\"{{ page.subtitle }}\">\n  {% endif %}\n\n  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"{{ site.title }} - {{ site.description }}\" href=\"{{ site.baseurl }}/feed.xml\" />\n\n  {% if layout.common-ext-css %}\n    {% for css in layout.common-ext-css %}\n      <link rel=\"stylesheet\" href=\"{{ css }}\" />\n    {% endfor %}\n  {% endif %}    \n  \n  {% if layout.common-css %}\n    {% for css in layout.common-css %}\n      <link rel=\"stylesheet\" href=\"{{ css | prepend: site.baseurl | replace: '//', '/' }}\" />\n    {% endfor %}\n  {% endif %}  \n  \n  {% if layout.common-googlefonts %}\n    {% for font in layout.common-googlefonts %}\n      <link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family={{ font }}\" />\n    {% endfor %}\n  {% endif %}\n\n  {% if page.ext-css %}\n    {% for css in page.ext-css %}\n      <link rel=\"stylesheet\" href=\"{{ css }}\" />\n    {% endfor %}\n  {% endif %}  \n  \n  {% if page.css %}\n    {% for css in page.css %}\n      <link rel=\"stylesheet\" href=\"{{ css | prepend: site.baseurl | replace: '//', '/' }}\" />\n    {% endfor %}\n  {% endif %}\n\n  {% if page.googlefonts %}\n    {% for font in page.googlefonts %}\n      <link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family={{ font }}\" />\n    {% endfor %}\n  {% endif %}\n\n  <!-- Facebook OpenGraph tags -->\n  <meta property=\"og:title\" content=\"{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}\" />\n  <meta property=\"og:type\" content=\"website\" />\n  \n  {% if page.id %}\n  <meta property=\"og:url\" content=\"{{ site.url }}{{ page.url }}/\" />\n  {% else %}\n  <meta property=\"og:url\" content=\"{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}\" />\n  {% endif %}\n  \n  {% if page.fb-img %}\n  <meta property=\"og:image\" content=\"{{ page.fb-img }}\" />\n  {% elsif site.avatar %}\n  <meta property=\"og:image\" content=\"{{ site.url }}{{ site.avatar }}\" />\n  {% else %}\n  <meta property=\"og:image\" content=\"\" />\n  {% endif %}\n  \n</head>\n",
+    "created" : 1496781366540.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "66970137",
+    "id" : "E484FCB1",
+    "lastKnownWriteTime" : 1491673861,
+    "last_content_update" : 1491673861,
+    "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/_includes/head.html",
+    "project_path" : "_includes/head.html",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

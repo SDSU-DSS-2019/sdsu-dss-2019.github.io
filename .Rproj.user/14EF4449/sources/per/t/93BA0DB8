@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547588009727.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2725937637",
+    "id" : "93BA0DB8",
+    "lastKnownWriteTime" : 1547590856,
+    "last_content_update" : 1547590856924,
+    "path" : "D:/Dropbox/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "43,41",
+        "scrollLine" : "29"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

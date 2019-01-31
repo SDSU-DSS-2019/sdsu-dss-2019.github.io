@@ -1,0 +1,84 @@
+[0m[0K]0;:/d/Dropbox/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/website[?25l
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu[0K-
+2019/website[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[3G[?25h[4G[?25l$ cd[0K[?25h[6G[?25l$ cd t[0K[?25hh[0Ke[0Km[0Ke[0Ks[0K[?25l
+[0K[?25h]0;:/d/Dropbox/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/website/themes[?25l
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu[0K-
+2019/website/themes[0m[0K
+$[0K[3G[?25h[?25l$ cd themes[0K
+bash: cd: themes: No such file or directory[0K
+[0K[?25h[?25l
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu[0K-
+2019/website/themes[0m[0K
+$[0K[3G[?25h[?25l$ git clone https://github.com/liuzc/LeaveIt.git[0K[?25h[?25l[11A[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Person[0Ka
+l)/Brown/Teaching/Outside of Brown Courses/tidy-s[0Kd
+su-2019/website[0K
+[0m$ cd themes[0K
+[0K
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Person[0Ka
+l)/Brown/Teaching/Outside of Brown Courses/tidy-s[0Kd
+su-2019/website/themes[0K
+[0m$ cd themes[0K
+bash: cd: themes: No such file or directory[0K
+[0K
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Person[0Ka
+l)/Brown/Teaching/Outside of Brown Courses/tidy-s[0Kd
+su-2019/website/themes[0K
+[0m$ git clone https://github.com/liuzc/LeaveIt.git[0K[?25h[48G[47G[46G[45G[43G[41G[40G[39G[38G[37G[35G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[23G[21G[20G[19G[18G[17G[16G[15G[14G[12G[10G[9G[8G[7G[8G[9G[10G[11G[12G[?25l$ git clon https://github.com/liuzc/LeaveIt.git[0K[11G[?25h[?25l$ git clo https://github.com/liuzc/LeaveIt.git[0K[10G[?25h[?25l$ git cl https://github.com/liuzc/LeaveIt.git[0K[9G[?25h[?25l$ git c https://github.com/liuzc/LeaveIt.git[0K[8G[?25h[?25l$ git  https://github.com/liuzc/LeaveIt.git[0K[7G[?25h[?25l$ git s https://github.com/liuzc/LeaveIt.git[0K[8G[?25h[?25l$ git su https://github.com/liuzc/LeaveIt.git[0K[9G[?25h[?25l$ git sub https://github.com/liuzc/LeaveIt.git[0K[10G[?25h[?25l$ git subm https://github.com/liuzc/LeaveIt.git[0K[11G[?25h[?25l$ git submo https://github.com/liuzc/LeaveIt.git[0K[12G[?25h[?25l$ git submod https://github.com/liuzc/LeaveIt.git[0K[13G[?25h[?25l$ git submodu https://github.com/liuzc/LeaveIt.gi[0K
+t[0K[1A[14G[?25h[?25l$ git submodul https://github.com/liuzc/LeaveIt.g[0K
+it[0K[1A[15G[?25h[?25l$ git submodule https://github.com/liuzc/LeaveIt.[0K
+git[0K[1A[16G[?25h[?25l$ git submodule  https://github.com/liuzc/LeaveIt[0K
+.git[0K[1G[?25h[?25l[1A[17G[?25h[?25l$ git submodule a https://github.com/liuzc/LeaveI[0K
+ .git[0K[1A[17G[?25h[?25l
+t.git[0K[1A[18G[?25h[?25l$ git submodule ad https://github.com/liuzc/Leave[0K
+It.git[0K[1A[19G[?25h[?25l$ git submodule add https://github.com/liuzc/Leav[0K
+eIt.git[0K[1A[20G[?25h[?25l$ git submodule add  https://github.com/liuzc/Lea[0K
+veIt.git[0K[1A[21G[?25h[?25l
+
+[0K[?25hfatal: not a git repository (or any of the parent[0K[?25l
+directories): .git[0K
+[0K[?25h[?25l
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Person[0Ka
+l)/Brown/Teaching/Outside of Brown Courses/tidy-s[0Kd
+su-2019/website/themes[0m[0K
+$[0K[3G[?25h[?25l$ git submodule add  https://github.com/liuzc/Lea[0K[3G[?25h[?25l
+veIt.git[0K[?25h[8G[7G[5G[4G[3G[2G[1G[?25l[1A[48G[?25h[47G[45G[43G[42G[41G[40G[39G[38G[37G[36G[35G[34G[33G[31G[30G[29G[27G[26G[25G[23G[22G[21G[20G[?25l$ git submodule add=  https://github.com/liuzc/Le[0K
+aveIt.git[0K[1A[21G[?25h[?25l$ git submodule add  https://github.com/liuzc/Lea[0K
+aveIt.git[0K[1A[21G[?25h[?25l
+veIt.git[0K[1A[20G[?25h[?25l$ git submodule ad  https://github.com/liuzc/Leav[0K
+eIt.git[0K[1A[20G[?25h[?25l$ git submodule a  https://github.com/liuzc/Leave[0K
+eIt.git[0K[1A[19G[?25h[?25l$ git submodule   https://github.com/liuzc/LeaveI[0K
+t.git[0K[1A[17G[?25h[?25l$ git submodule  https://github.com/liuzc/LeaveIt[0K
+.git[0K[1A[16G[?25h[?25l$ git submodul  https://github.com/liuzc/LeaveIt.[0K
+git[0K[1A[15G[?25h[?25l$ git submodu  https://github.com/liuzc/LeaveIt.g[0K
+it[0K[1A[14G[?25h[?25l$ git submod  https://github.com/liuzc/LeaveIt.gi[0K
+t[0K[1A[13G[?25h[?25l$ git submo  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[12G[?25h[?25l$ git subm  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[11G[?25h[?25l$ git sub  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[10G[?25h[?25l$ git su  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[9G[?25h[?25l$ git s  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[9G[?25h[8G[?25l$ git   https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[7G[?25h[?25l$ git c  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[8G[?25h[?25l$ git cl  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[9G[?25h[?25l$ git clo  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[10G[?25h[?25l$ git clon  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[11G[?25h[?25l$ git clone  https://github.com/liuzc/LeaveIt.git[0K
+[0K[1A[12G[?25h[?25l
+
+[0K[?25hCloning into 'LeaveIt'...[0K[?25l
+[0K[?25hremote: Enumerating objects: 1, done.[0K[?25l
+remote: Counting objects: 100% (1/1), done.[0K
+[0K[?25hReceiving objects:  17% (53/306)[0K[?25lReceiving objects:  27% (83/306)[0K[1G[?25h[?25lReceiving objects:  32% (98/306)[0K[1G[?25h[?25lReceiving objects:  49% (150/306)[0K[2G[?25h[?25lReceiving objects:  74% (227/306)[0K[1G[?25hremote: Total 306 (delta 0), reused 0 (delta 0), [0Kp[?25l
+ack-reused 305[0K
+[0K
+Receiving objects: 100% (306/306), 1.75 MiB | 10.[0K8
+7 MiB/s, done.[0K
+Resolving deltas: 100% (110/110), done.[0K
+[0K[?25h[?25l
+[0;32madam_@DESKTOP-5PHIKQH [0;35m [0;33m/d/Dropbox/Dropbox (Person[0Ka
+l)/Brown/Teaching/Outside of Brown Courses/tidy-s[0Kd
+su-2019/website/themes[0m[0K
+$[0K[3G[?25h[?25l$ git clone  https://github.com/liuzc/LeaveIt.git[0K
+[0K[?25h[?25l[1A$ git submodule add  https://github.com/liuzc/Lea[0K
+veIt.git[0K[?25h[?25l[1A$ cd themes[0K
+[0K[1A[12G[?25h

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: page\ntitle: Daily Schedule!\npublished: true\n---\n\n\n\n\n\n### Monday 19/06/2017: Basics of Data in R!\n\n| ------------- | ----------------------|\n| 8:00 - 9:00   |    Registration       |\n| 9:00 - 9:15   |    Introductions   |\n| 9:15 - 10:30  |    Getting Started with R |\n| 10:30 - 11:00 |       Tea | \n| 11:00 - 12:45 |      Getting Data in R | \n| 1:00 - 2:30   |          Lunch | \n| 2:30 - 4:00   |   Case Study: Data Structures Practice | \n| 4:00          |               Tea | \n\n\n### Tuesday 20/06/2017: Cleaning and Summarizing Data in R!\n\n| ------------- | ----------------------|\n| 9:00 - 10:30  |     Using `tidyr` |\n|               |     Cleaning and Transforming Data in R |\n| 10:30 - 11:00 |       Tea | \n| 11:00 - 12:45 |     Using `dplyr` |\n|               |     Arranging and Summarizing Data in R in R | \n| 1:00 - 2:30   |          Lunch | \n| 2:30 - 4:00   |   Case Study: Cleaning and Summarizing Data | \n| 4:00          |               Tea | \n\n\n### Wednesday 21/06/2017: Graphics and Regression in R\n\n| ------------- | ----------------------|\n| 9:00 - 10:30  |   Graphics in R |\n| 10:30 - 11:00 |       Tea | \n| 11:00 - 12:45 |      Regression in R | \n|               | Presentations |\n| 1:00 - 2:30   |          Lunch | \n| 2:30 - 4:00   |   Case Study: Practicing Regressions in R | \n| 4:00          |               Tea | \n\n\n\n",
+    "created" : 1495822458137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "190293998",
+    "id" : "EDF707DB",
+    "lastKnownWriteTime" : 1496423703,
+    "last_content_update" : 1496423703404,
+    "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/schedule.md",
+    "project_path" : "schedule.md",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

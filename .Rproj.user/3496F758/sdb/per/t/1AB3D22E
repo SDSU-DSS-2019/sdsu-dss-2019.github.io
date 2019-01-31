@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: page\ntitle: Logistics and Preparation!\npublished: true\n---\n\n\n\n## Arrival at Noble Conference Center\n\n- Key information about the Noble Conference Center can be found at this [link](http://www.thenoble.co.ke/index.html#.U6GHVvmzEYk).\n- Participants arriving at Eldoret Airport should arrange their own transport.  \n- Taxi fare is around 1000 KES.\n\n## What is covered\n- Those staying at Noble receive full board (bed, breakfast, dinner).  \n- All conference participants will be provided with tea and lunch during the day.\n\n## Conference Schedule\n- Registration begins at 8:00 am on 19 June.  \n- The workshop runs from 9:00 am to 4:00 pm each day, with breaks for tea and lunch.  \n- A full schedule will be posted on the web when available.\n\n## Downloading R Software\n\n- Please be sure you have [downloaded R](https://nambari.github.io/getr) software and completed the tutorials. \n- It also will be helpful to download RStudio, which provides a very helpful way to organize programs and output.  \n- You should install R first, then RStudio.",
+    "created" : 1496780674551.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3130067317",
+    "id" : "1AB3D22E",
+    "lastKnownWriteTime" : 1496781707,
+    "last_content_update" : 1496781707581,
+    "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/logistics.md",
+    "project_path" : "logistics.md",
+    "properties" : {
+        "ignored_words" : "Eldoret\n",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

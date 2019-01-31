@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: page\ntitle: PHP 2511: Applied Regression Analysis\n---\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n\n<strong  style=\"font-size: 125%;\">\nIntroduction to R Programming for Biostatistics\n<br>\nData Management, Regression Modeling and Survival Analysis\n</strong>\n<br>\n<br>\n<br>\n<br>\nAdam Sullivan, Assistant Professor of Biostatistics, Brown University\n<br>\nJoseph Hogan, Professor of Biostatistics, Brown University\n<br>\nAnn Mwangi, Senior Lecturer, Moi University School of Medicine\n<br>\n<br>\n\n<a class=\"btn btn-intro btn-lg\" href=\"https://nambari.github.io/getr\">Get R Now!</a>\n<br>\n<br>\n\n\n\n  <a class=\"btn btn-intro btn-lg\" href=\"https://nambari.github.io/schedule\">The Schedule</a>\n</div>\n\n\n</div>\n\n\n\n\n\n\n<div class=\"main-explain-area jumbotron\">\n<strong  style=\"font-size: 125%;\">\n<div style=\"text-align: center;\">\n19-22 June 2017\n<br>\nAMPATH / Moi University School of Medicine\n<br>\nNoble Conference Center\n<br>\nEldoret, Kenya\n\n\n</div>\n</strong>\n</div>\n",
+    "created" : 1495566889604.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "844484914",
+    "id" : "B3630841",
+    "lastKnownWriteTime" : 1496780931,
+    "last_content_update" : 1496780931554,
+    "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/index.md",
+    "project_path" : "index.md",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

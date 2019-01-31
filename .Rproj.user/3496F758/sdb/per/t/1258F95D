@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: page\ntitle: Downloads Needed for Class!\npublished: true\n---\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n\n<strong  style=\"font-size: 125%;\">\nIf you have not done so, \n<br>\nget R and RStudio before moving on\n</strong>\n<br>\n\n<br>\n<br>\n\n<a class=\"btn btn-intro btn-lg\" href=\"https://nambari.github.io/getr\">Get R Now!</a>\n<br>\n<br>\n\n\n</div>\n\n\n</div>\n\n\n\n\n## Install the Exercises\n\n\nWe have created a series of exercises that you will be completing every day. Please follow the following instructions:\n\n1. [Download The Exercises Folder](https://github.com/NAMBARI/exercises/archive/master.zip)\n2. Unzip this folder and place it on your desktop. \n\n\n\n## Dowload and Print the Notes\n\n1. [Download the Notes](https://github.com/NAMBARI/slides/archive/master.zip)\n2. Unzip this folder to yout desktop. THen open it. \n3.. There are 2 version:\n    a. Individual Slides\n        - These contain many many slides you will not want to print these but they can be saved as reference on your computer. \n    b. Files labeled \"*_print.pdf\" can be printed and have 6 slides per page. \n\n\n## Dowload HERS Data and Description of Variables\n\n1. [Download HERS Data](https://github.com/NAMBARI/nambari.github.io/raw/master/HERS_PHP2610.dta)\n2. [Download HERS Data Description](https://github.com/NAMBARI/nambari.github.io/raw/master/DEFINITIONS%20FOR%20VARIABLES%20IN%20HERS%20STUDY.docx)\n\n\n\n## Download GGPlot Exercise Code\n\n[GGPlot Walkthrough Example](https://github.com/NAMBARI/nambari.github.io/raw/master/ggplot_practice.Rmd)\n\n\n\n\n\n## Download Files that create the Slides\n\n[https://github.com/NAMBARI/exercises/archive/master.zip](https://github.com/NAMBARI/notes/archive/master.zip)\n\n\n\n\n## Packages Needed for R\n\nPlease copy the following into R and click enter:\n\n(If you are unsure of how to do this: Take the [Intro to R Course](https://nambari.github.io/Intro-to-R/))\n\n```\ninstall.packages(\"datasets\")\ninstall.packages(\"tidyverse\")\ninstall.packages(\"dplyr\")\ninstall.packages(\"broom\")\ninstall.packages(\"gapminder\")\ninstall.packages(\"magrittr\")\ninstall.packages(\"nycflights13\")\ninstall.packages(\"ggplot2\")\ninstall.packages(\"mgcv\")\ninstall.packages(\"directlabels\")\ninstall.packages(\"gridExtra\")\ninstall.packages(\"MASS\")\ninstall.packages(\"car\")\ninstall.packages(\"rmarkdown\")\ninstall.packages(\"knitr\")\ninstall.packages(\"kable\")\ninstall.packages(\"gvlma\")\ninstall.packages(\"ggrepel\")\ninstall.packages(\"grid\")\ninstall.packages(\"survival\")\ninstall.packages(\"survminer\")\ninstall.packages(\"GGally\")\ninstall.packages(\"modelr\")\ninstall.packages(\"purrr\")\n```\n",
+    "created" : 1497278160545.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "128289025",
+    "id" : "1258F95D",
+    "lastKnownWriteTime" : 1498041308,
+    "last_content_update" : 1498041308751,
+    "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/downloads.md",
+    "project_path" : "downloads.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
