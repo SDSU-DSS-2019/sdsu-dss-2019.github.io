@@ -17,7 +17,7 @@ avatar: "/img/sdsu-dss.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "/"
+  Home: "https://sdsu-dss-2019.github.io/"
   Get R: "https://sdsu-dss-2019.github.io/getr"
   Downloads: "https://sdsu-dss-2019.github.io/downloads"
   Schedule: "https://sdsu-dss-2019.github.io/schedule"
