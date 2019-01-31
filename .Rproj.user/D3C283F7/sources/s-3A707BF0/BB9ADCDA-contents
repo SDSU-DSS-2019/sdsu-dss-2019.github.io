@@ -25,7 +25,8 @@ If you are ready to get started in the tidyverse then click below:
 
 <br>
 <br>
-
+<center>
 <a class="btn btn-intro btn-lg" href="https://sdsu-dss-2019.github.io/getr">Get R Now!</a>
+</center>
 <br>
 <br>
