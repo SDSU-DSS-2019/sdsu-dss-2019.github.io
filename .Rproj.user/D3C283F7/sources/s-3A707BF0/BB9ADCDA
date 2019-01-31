@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1548948455262.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2477886406",
+    "hash" : "3124108947",
     "id" : "BB9ADCDA",
     "lastKnownWriteTime" : 1548950803,
-    "last_content_update" : 1548950803089,
+    "last_content_update" : 1548950901561,
     "path" : "C:/Users/sullivanstats/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/website/learn.md",
     "project_path" : "learn.md",
     "properties" : {
-        "cursorPosition" : "29,9",
-        "scrollLine" : "16"
+        "cursorPosition" : "29,0",
+        "scrollLine" : "15"
     },
     "relative_order" : 5,
     "source_on_save" : false,
