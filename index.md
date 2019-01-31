@@ -19,6 +19,13 @@ Using Tidyverse for Data Science
 <br>
 Adam Sullivan, Assistant Professor of Biostatistics, Brown University
 <br>
+<br>
+<br>
+<br>
+
+<a class="btn btn-intro btn-lg" href="https://sdsu-dss-2019.github.io/learn">What will I Learn?</a>
+<br>
+<br>
 
 <a class="btn btn-intro btn-lg" href="https://sdsu-dss-2019.github.io/getr">Get R Now!</a>
 <br>
